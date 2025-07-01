@@ -1,5 +1,8 @@
 # TypeScript Password Generator – Quick Start
 
+|![pass](https://github.com/user-attachments/assets/63b2eb1e-615a-4ec5-8e29-5e075ab1d6f3)|
+|---|
+
 ## Voraussetzungen
 
 - [Node.js](https://nodejs.org/) (empfohlen: Version 18 oder neuer)
