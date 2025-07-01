@@ -11,7 +11,7 @@
 
 ```yarn
 git clone https://github.com/bylickilabs/TypeScriptPasswordGenerator.git
-cd ts-password-generator
+cd TypeScriptPasswordGenerator
 ```
 
 ---
