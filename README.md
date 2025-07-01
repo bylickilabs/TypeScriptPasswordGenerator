@@ -10,7 +10,7 @@
 1. **Projekt herunterladen oder Repository klonen**
 
 ```yarn
-git clone https://github.com/DEIN_USERNAME/ts-password-generator.git
+git clone https://github.com/bylickilabs/TypeScriptPasswordGenerator.git
 cd ts-password-generator
 ```
 
