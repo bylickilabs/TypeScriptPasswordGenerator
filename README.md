@@ -16,8 +16,6 @@ cd ts-password-generator
 
 ---
 
----
-
 > Abhängigkeiten Installieren
 
 ```
